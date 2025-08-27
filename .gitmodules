@@ -1,0 +1,3 @@
+[submodule "BAMCAT"]
+	path = BAMCAT
+	url = https://github.com/salvolc/BAMCAT.git
